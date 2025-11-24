@@ -8,13 +8,6 @@ mac
 android
 oneui
 
-人工智能
-AI
-chatgpt
-openai
-sora
-DeepSeek
-
 开源
 +推荐
 
@@ -23,21 +16,7 @@ HelloGitHub
 舆论
 舆情
 
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
 科技
+
+经济学
+金融学
